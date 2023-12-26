@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703497003 source:c:\users\ajayi\desktop\december learning\stord\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
